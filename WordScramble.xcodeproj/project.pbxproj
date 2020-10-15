@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		03C06B5D25375B8700B544DE /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 03C06B5C25375B8700B544DE /* start.txt */; };
 		03F3420C2535F57C00B1C97F /* WordScrambleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F3420B2535F57C00B1C97F /* WordScrambleApp.swift */; };
 		03F3420E2535F57C00B1C97F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F3420D2535F57C00B1C97F /* ContentView.swift */; };
 		03F342102535F57D00B1C97F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03F3420F2535F57D00B1C97F /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		03C06B5C25375B8700B544DE /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 		03F342082535F57C00B1C97F /* WordScramble.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WordScramble.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		03F3420B2535F57C00B1C97F /* WordScrambleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordScrambleApp.swift; sourceTree = "<group>"; };
 		03F3420D2535F57C00B1C97F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				03F3420B2535F57C00B1C97F /* WordScrambleApp.swift */,
 				03F3420D2535F57C00B1C97F /* ContentView.swift */,
+				03C06B5C25375B8700B544DE /* start.txt */,
 				03F3420F2535F57D00B1C97F /* Assets.xcassets */,
 				03F342142535F57D00B1C97F /* Info.plist */,
 				03F342112535F57D00B1C97F /* Preview Content */,
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				03F342132535F57D00B1C97F /* Preview Assets.xcassets in Resources */,
+				03C06B5D25375B8700B544DE /* start.txt in Resources */,
 				03F342102535F57D00B1C97F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
